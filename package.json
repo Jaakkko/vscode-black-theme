@@ -1,0 +1,22 @@
+{
+    "name": "black",
+    "displayName": "Black",
+    "description": "Color theme with black background.",
+    "publisher": "Jaakko",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/black.json"
+            }
+        ]
+    }
+}
