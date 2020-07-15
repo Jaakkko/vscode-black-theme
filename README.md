@@ -1,1 +1,2 @@
-![](https://github.com/Jaakkko/vscode-black-theme/blob/master/preview.png)
+## README
+![](preview.png)
