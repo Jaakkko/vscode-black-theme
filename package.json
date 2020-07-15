@@ -3,19 +3,19 @@
     "displayName": "Black",
     "description": "Color theme with black background.",
     "publisher": "Jaakko",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "homepage": "https://github.com/Jaakkko/vscode-black-theme/blob/master/README.md",
     "icon": "logo.png",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/Jaakkko/vscode-black-theme"
+        "type": "git",
+        "url": "https://github.com/Jaakkko/vscode-black-theme"
     },
     "engines": {
         "vscode": "^1.42.0"
     },
     "galleryBanner": {
-      "color": "#000000",
-      "theme": "dark"
+        "color": "#000000",
+        "theme": "dark"
     },
     "categories": [
         "Themes"
