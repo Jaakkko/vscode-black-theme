@@ -5,7 +5,7 @@
     "publisher": "Jaakko",
     "version": "0.2.0",
     "homepage": "https://github.com/Jaakkko/vscode-black-theme/blob/master/README.md",
-    "icon": "https://github.com/Jaakkko/vscode-black-theme/blob/master/icon.png?raw=true",
+    "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/Jaakkko/vscode-black-theme"
