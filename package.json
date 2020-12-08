@@ -26,6 +26,11 @@
                 "label": "Black",
                 "uiTheme": "vs-dark",
                 "path": "./themes/black.json"
+            },
+            {
+                "label": "Black Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/black-italic.json"
             }
         ]
     }
