@@ -293,6 +293,8 @@
     "notificationsErrorIcon.foreground": "#BFD4E1",
     "notificationsWarningIcon.foreground": "#BFD4E1",
     "notificationsInfoIcon.foreground": "#BFD4E1",
+    "extensionButton.background": "#000",
+    "extensionButton.hoverBackground": "#222",
     "extensionButton.prominentForeground": "#BFD4E1",
     "extensionButton.prominentBackground": "#000",
     "extensionButton.prominentHoverBackground": "#000",
