@@ -34,7 +34,7 @@ jobs:
         run: npm install @vscode/vsce --save-dev
 
       - name: Publish
-        run: vsce publish
+        run: npx vsce publish
         env:
           VSCE_PAT: ${{ secrets.VSCE_PAT }}
           
